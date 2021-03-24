@@ -1,0 +1,17 @@
+{
+    "name": "Gowla Macro Pad",
+    "vendorId": "0xFEED",
+    "productId": "0xE9B6",
+    "lighting": "qmk_backlight_rgblight",
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+            ["0,2", "1,2", "2,2"],
+            ["0,1", "1,1", "2,1"],
+            ["0,0", "1,0", "2,0"]
+        ]
+    }
+}
